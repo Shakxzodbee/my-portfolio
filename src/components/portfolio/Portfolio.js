@@ -1,4 +1,3 @@
-
 import "./portfolio.css"
 import IMG from '../../assets/img/man4.jpg'
 import IMG2 from '../../assets/img/man5.jpg'
@@ -16,67 +15,67 @@ const data = [
   {
     id: 4,
     image: IMG8,
-    title: 'Medilab',
-    github: 'https://github.com/sardormirzakomilov/Medilab',
-    demo: 'https://sardor-medilab.netlify.app/'
+    title: 'Namoz',
+    github: 'https://github.com/Shakxzodbee/Namoz-vaqtlari',
+    demo: 'https://namoz-vaqtlari-yangi-api.netlify.app/'
   },
   {
     id: 7,
     image: IMG4,
-    title: 'Max Proff',
-    github: 'https://github.com/sardormirzakomilov/MaxProf',
-    demo: 'https://sardor-maxpro.netlify.app/'
+    title: 'Midbank',
+    github: 'https://github.com/Shakxzodbee/Midbank-maket-react',
+    demo: 'https://vermillion-mermaid-453c8b.netlify.app/'
   },
 
   {
     id: 8,
     image: IMG9,
-    title: 'eNno',
-    github: 'https://github.com/sardormirzakomilov/oNno',
-    demo: 'https://sardor-enno.netlify.app/'
+    title: 'To-Do-App',
+    github: 'https://github.com/Shakxzodbee/html-css-js-folders/tree/main/to-do-app-main',
+    demo: 'https://to-do-applcation.netlify.app/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'ANSI',
-    github: 'https://github.com/sardormirzakomilov/qwer',
-    demo: 'https://qwer-sardor.netlify.app/'
+    title: 'Trustcrypt',
+    github: 'https://github.com/Shakxzodbee/trustcrypt',
+    demo: 'https://github.com/Shakxzodbee/trustcrypt'
   },
   {
     id: 6,
     image: IMG7,
-    title: 'Chart Socetio',
-    github: 'https://github.com/sardormirzakomilov/socket.io.chat',
-    demo: 'https://chartsocetio.herokuapp.com/'
+    title: 'Paint',
+    github: 'https://github.com/Shakxzodbee/paint-app',
+    demo: 'https://elaborate-hotteok-73dd16.netlify.app/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'BarysAuto',
-    github: 'https://github.com/sardormirzakomilov/sertifikat_maket',
-    demo: 'https://cars-prodaj.netlify.app/'
+    title: 'Quiz App',
+    github: 'https://github.com/Shakxzodbee/html-css-js-folders/tree/main/Quiz-app-main',
+    demo: 'https://jazzy-paprenjak-0675e2.netlify.app/'
   },
   
   {
     id: 5,
     image: IMG5,
-    title: 'Mans Shop',
-    github: 'https://github.com/sardormirzakomilov/mans',
-    demo: 'https://mans-shop-sardor.netlify.app/'
+    title: 'Snake Game',
+    github: 'https://github.com/Shakxzodbee/snake-game-full',
+    demo: 'https://snake-gamessssssssssssssss.netlify.app/'
   },
   {
     id: 1,
     image: IMG6,
-    title: 'Swell',
-    github: 'https://github.com/sardormirzakomilov/shop',
-    demo: 'https://shoppps.netlify.app/'
+    title: 'Calendar',
+    github: 'https://github.com/Shakxzodbee/html-css-js-folders/tree/main/Calendar',
+    demo: 'https://precious-macaron-c835ee.netlify.app/'
   },
   {
     id: 1,
     image: IMG,
-    title: 'Trevland',
-    github: 'https://github.com/sardormirzakomilov/travlend',
-    demo: 'https://travlend-sardor.netlify.app/'
+    title: 'Text Editor',
+    github: 'https://github.com/Shakxzodbee/html-css-js-folders/tree/main/text-editor-main',
+    demo: 'https://text-editorpage.netlify.app/'
   },
  
 ]

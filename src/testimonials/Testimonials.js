@@ -1,6 +1,6 @@
 
 import "./testimonials.css"
-import AVTR1 from '../assets/img/man2.jpg'
+import AVTR1 from '../assets/img/man15.jpg'
 
 // import Swiper core and required modules
 import {  Pagination } from 'swiper';
@@ -16,13 +16,9 @@ import 'aos/dist/aos.css'
 const data = [
   {
   avatar:AVTR1,
-  name:'Client Name 1',
-  review:' Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed aut consequatur iure similique cumque excepturi libero odio quae quo accusamus, labore maiores. Nobis nulla quam neque obcaecati aut non sit?'
-  },
-  {
-  avatar:AVTR1,
-  name:'Client Name 2',
-  review:' Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed aut consequatur iure similique cumque excepturi libero odio quae quo accusamus, labore maiores. Nobis nulla quam neque obcaecati aut non sit?'
+  name:'Екатерина',
+  review:`Здравствуйте, меня зовут Екатерина
+  Я создал сайт вместе с Шахзодбеком и считаю, что проведенное время было интересным и полезным. производительность отличная )`
   },
 ]
 const Testimonials = () => {

@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import React from 'react';
 import Header from './components/header/Header';
 import Nav from './components/nav/Nav';
@@ -9,6 +10,19 @@ import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 
 function App() {
+
+    useEffect(()=>{
+        document.addEventListener('keydown' , detectKeyDown , true)
+    }, [])
+
+    const detectKeyDown = (e) =>{
+        console.log('Clicked Key :' , e.key)
+
+    if(e.key === "F12"){
+        alert('Bu usul taqiqlangan')
+    }
+    }
+
     return (
         <>
         <Header />

@@ -13,8 +13,7 @@ footer a{
     font-weight: 500;
     margin-bottom: 2rem;
     display: inline-block;
- color: var(--color-light);
-
+    color: var(--color-light);
 }
 .permalinks{
     display: flex;
@@ -22,14 +21,12 @@ footer a{
    justify-content: center;
    gap: 2rem;
    margin: 0 auto 3rem;
-
 }
 .footer_socials{
     display: flex;
     justify-content: center;
     gap: 1rem;
     margin-bottom: 4rem;
-
 }
 .footer_socials a{
     background: var(--color-bg);
@@ -38,28 +35,22 @@ footer a{
     border-radius: 0.7rem;
     display: flex;
     border: 1px solid transparent;
-transition: var(--transition);
-
+    transition: var(--transition);
 }
 .footer_socials a:hover{
-background: transparent;
 color: var(--color-bg);
 border-color: var(--color-bg);
-
-
+transition: 600ms ease-out;
 }
 .footer_copyright{
     margin-bottom: 4rem;
     color: var(--color-light);
 }
-
-
 /* ============== GENERAL SMALL QUERY ============== */
 @media screen and (max-width:600px) {
     .permalinks{
         flex-direction: column;
         gap: 1.5rem;
-
     }
     .footer_socials{
         margin-bottom: 2.6rem;

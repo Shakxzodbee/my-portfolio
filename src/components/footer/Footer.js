@@ -1,6 +1,5 @@
-
 import "./footer.css"
-import {FaFacebookF} from 'react-icons/fa'
+import {FaFacebookF, FaTelegram} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
 import {BsTwitter} from 'react-icons/bs'
 import React, { useEffect } from 'react';
@@ -22,7 +21,7 @@ const Footer = () => {
         <li> <a href="#contact"  data-aos="flip-up"> Contact </a></li>
       </ul>
       <div className="footer_socials"  data-aos="flip-up">
-        <a href="https://facebook.com"><FaFacebookF /></a>
+        <a href="https://t.me/shakxzodbek"><FaTelegram /></a>
         <a href="https://instagram.com/shakxzodbee"><FiInstagram /></a>
       </div>
       <div className="footer_copyright"  data-aos="flip-up">

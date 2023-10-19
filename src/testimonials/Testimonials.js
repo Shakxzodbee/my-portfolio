@@ -1,6 +1,7 @@
 
 import "./testimonials.css"
 import AVTR1 from '../assets/img/man15.jpg'
+import AVTR2 from '../assets/img/man16.jpg'
 
 // import Swiper core and required modules
 import {  Pagination } from 'swiper';
@@ -20,6 +21,13 @@ const data = [
   review:`Здравствуйте, меня зовут Екатерина
   Я создал сайт вместе с Шахзодбеком и считаю, что проведенное время было интересным и полезным. производительность отличная )`
   },
+  {
+    avatar:AVTR2,
+    name:'Коля',
+    review:`Привет
+    Мое личное мнение таково, что сайт легко и идеально создается с использованием React.js.`
+  },
+
 ]
 const Testimonials = () => {
   useEffect(() => {

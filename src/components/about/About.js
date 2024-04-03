@@ -1,5 +1,5 @@
 import "./About.css"
-import ABME from '../../assets/img/photo_2023-06-07_21-56-06.jpg'
+import ABME from '../../assets/img/IMG_20240331_200742_685.jpg'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'

@@ -1,6 +1,6 @@
 import "./header.css";
 import CTA from './CTA';
-import ME from '../../assets/img/manu.jpg';
+import ME from '../../assets/img/IMG_20240331_200742_685.jpg';
 import HeaderSocials from './HeaderSocials';
 import React, { useEffect } from 'react';
 import AOS from 'aos'

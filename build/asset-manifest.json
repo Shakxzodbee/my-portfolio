@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87e15366.css",
+    "main.js": "/static/js/main.abfb603e.js",
+    "static/media/my-rezume.pdf": "/static/media/my-rezume.7601a16f3a36adc0bafc.pdf",
+    "static/media/man9.jpg": "/static/media/man9.bad40005b2eb31c813e2.jpg",
+    "static/media/man11.jpg": "/static/media/man11.7b28c807621ad7171f54.jpg",
+    "static/media/man15.jpg": "/static/media/man15.0dc302c4f9813d0e5fb6.jpg",
+    "static/media/man5.jpg": "/static/media/man5.a5bbec611cd12c5c8f32.jpg",
+    "static/media/IMG_20240331_200742_685.jpg": "/static/media/IMG_20240331_200742_685.16c9577f36fde821734a.jpg",
+    "static/media/man7.jpg": "/static/media/man7.99af43b4c0da14ecd001.jpg",
+    "static/media/man10.jpg": "/static/media/man10.4a9caa3917ac03926374.jpg",
+    "static/media/man8.jpg": "/static/media/man8.b3eccef7ff659acf2377.jpg",
+    "static/media/man4.jpg": "/static/media/man4.5600c6be3e2280b25c58.jpg",
+    "static/media/man12.jpg": "/static/media/man12.46c3303b29f0b172bc73.jpg",
+    "static/media/man6.jpg": "/static/media/man6.5a7d88c81d58c6dd389a.jpg",
+    "index.html": "/index.html",
+    "main.87e15366.css.map": "/static/css/main.87e15366.css.map",
+    "main.abfb603e.js.map": "/static/js/main.abfb603e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e15366.css",
+    "static/js/main.abfb603e.js"
+  ]
+}
